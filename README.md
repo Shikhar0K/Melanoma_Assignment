@@ -44,7 +44,7 @@ Credit
 
 This project is a part of Study by Upgard Learning
 Contact
-contributors Shikhar Kushwaha [@shikhar0k] - contact shikhar.kushwaha92@gmail.com
+contributors Shikhar Kushwaha [@Shikhar0k] - contact shikhar.kushwaha92@gmail.com
 
 License
 This project is open source available for study
